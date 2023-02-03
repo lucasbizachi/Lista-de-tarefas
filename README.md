@@ -7,4 +7,12 @@
  
  <h3>Descrição</h3>
  Lista de tarefas feita com JavaScript.
- <img src='https://raw.githubusercontent.com/lucasbizachi/Lista-de-tarefas/main/img/imagem-apresent%C3%A7%C3%A3o.png'>
+ <img  height="452" width="784"src='https://raw.githubusercontent.com/lucasbizachi/Lista-de-tarefas/main/img/imagem-apresent%C3%A7%C3%A3o.png'>
+ 
+  <h3>Tecnologias</h3>
+  <ul>
+     <li>HTML</li>
+     <li>CSS</li> 
+     <li>JavaScript</li>
+     <li>Photoshop</li>
+  </ul>
