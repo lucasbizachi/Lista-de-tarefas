@@ -7,4 +7,4 @@
  
  <h3>Descrição</h3>
  Lista de tarefas feita com JavaScript.
- <img src=''>
+ <img src='https://raw.githubusercontent.com/lucasbizachi/Lista-de-tarefas/main/img/imagem-apresent%C3%A7%C3%A3o.png'>
